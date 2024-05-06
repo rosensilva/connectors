@@ -104,7 +104,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/activecampaign-connector-1.0.0.zip",
             "description": "WSO2 Connector for ActiveCampaign",
             "icon": "activecampaign.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-activecampaign/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/activecampaign.gif"
         },
         {
             "name": "activecollab",
@@ -310,7 +310,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/activecollab-connector-2.0.1.zip",
             "description": "activecollab connector libraries",
             "icon": "activecollab.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-activecollab/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/activecollab.gif"
         },
         {
             "name": "agilezen",
@@ -406,7 +406,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/agilezen-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for AgileZen.",
             "icon": "agilezen.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-agilezen/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/agilezen.gif"
         },
         {
             "name": "amazondynamodb",
@@ -492,7 +492,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/amazondynamodb-connector-1.0.1.zip",
             "description": "AmazonDynamoDB connector library",
             "icon": "amazondynamodb.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-amazondynamodb/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazondynamodb.png"
         },
         {
             "name": "amazonlambda",
@@ -583,7 +583,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/amazonlambda-connector-1.0.0.zip",
             "description": "WSO2 AmazonLambda connector library",
             "icon": "amazonlambda.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-amazonlambda/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazonlambda.gif"
         },
         {
             "name": "amazons3",
@@ -869,7 +869,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/amazons3-connector-2.0.6.zip",
             "description": "amazon S3 connector libraries",
             "icon": "amazons3.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-amazons3/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazons3.png"
         },
         {
             "name": "amazonses",
@@ -1010,7 +1010,7 @@
             "download_url": "https://dist.wso2.org/downloads/esb-connectors/1.0.0/amazonses-connector-1.0.0.zip",
             "description": "wso2 connector library for AmazonSES",
             "icon": "amazonses.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-amazonses/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazonses.gif"
         },
         {
             "name": "amazonsns",
@@ -1151,7 +1151,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/amazonsns-connector-1.0.5.zip",
             "description": "AmazonSNS connector library",
             "icon": "amazonsimplenotification.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazonsimplenotification.gif"
         },
         {
             "name": "amazonsqs",
@@ -1252,7 +1252,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/amazonsqs-connector-1.1.1.zip",
             "description": "amazonsqs connector libraries",
             "icon": "amazonsimplequeueservice.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazonsimplequeueservice.png"
         },
         {
             "name": "amazonsdb",
@@ -1318,7 +1318,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/amazonsdb-connector-1.0.0.zip",
             "description": "amazonsimpledb connector libraries",
             "icon": "amazonsimpledb.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-amazonsimpledb/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/amazonsimpledb.gif"
         },
         {
             "name": "apns",
@@ -1339,7 +1339,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/apns-connector-1.0.0.zip",
             "description": "WSO2 ESB connector for Apple Push Notification service (APNs)",
             "icon": "applepushnotification.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/applepushnotification.gif"
         },
         {
             "name": "as4",
@@ -1391,7 +1391,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/pcml-connector-2.0.0.zip",
             "description": "PCML Connector for AS400",
             "icon": "as400pcml.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/as400pcml.gif"
         },
         {
             "name": "asana",
@@ -1632,7 +1632,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/asana-connector-1.0.0.zip",
             "description": "asana 6.0 cloud connector",
             "icon": "asana.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-asana/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/asana.gif"
         },
         {
             "name": "basecrm",
@@ -1748,7 +1748,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/basecrm-connector-1.0.0.zip",
             "description": "wso2 connector library for BaseCRM",
             "icon": "basecrm.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/basecrm.gif"
         },
         {
             "name": "basecamp",
@@ -1859,7 +1859,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/basecamp-connector-1.0.2.zip",
             "description": "wso2 BaseCamp Connector",
             "icon": "basecamp.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-basecamp/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/basecamp.gif"
         },
         {
             "name": "beetrack",
@@ -1910,7 +1910,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/beetrack-connector-1.0.0.zip",
             "description": "WSO2 ESB Connector Library for Beetrack API.",
             "icon": "beetrack.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-beetrack/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/beetrack.gif"
         },
         {
             "name": "bigquery",
@@ -1981,7 +1981,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/bigquery-connector-1.0.10.zip",
             "description": "WSO2 ESB Connector Library for BigQuery API.",
             "icon": "bigquery.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-bigquery/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/bigquery.png"
         },
         {
             "name": "billiving",
@@ -2027,7 +2027,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/billiving-connector-1.0.1.zip",
             "description": "wso2 connector library for Billiving",
             "icon": "billiving.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-billiving/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/billiving.gif"
         },
         {
             "name": "billomat",
@@ -2148,7 +2148,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/billomat-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Billomat API.",
             "icon": "billomat.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-billomat/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/billomat.gif"
         },
         {
             "name": "bitbucket",
@@ -2229,7 +2229,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/bitbucket-connector-1.0.0.zip",
             "description": "bitbucket connector libraries",
             "icon": "bitbucket.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-bitbucket/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/bitbucket.gif"
         },
         {
             "name": "bitly",
@@ -2385,7 +2385,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/bitly-connector-1.0.1.zip",
             "description": "Bitly v3 cloud connector",
             "icon": "bitly.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-bitly/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/bitly.gif"
         },
         {
             "name": "box",
@@ -2511,7 +2511,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/box-connector-1.0.0.zip",
             "description": "box connector libraries",
             "icon": "box.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-box/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/box.gif"
         },
         {
             "name": "braintree",
@@ -2622,7 +2622,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/braintree-connector-1.0.1.zip",
             "description": "wso2 braintree connector library",
             "icon": "braintree.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-braintree/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/braintree.gif"
         },
         {
             "name": "bugherd",
@@ -2693,7 +2693,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/bugherd-connector-1.0.1.zip",
             "description": "wso2 connector library for BugHerd",
             "icon": "bugherd.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-bugherd/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/bugherd.gif"
         },
         {
             "name": "bugzilla",
@@ -2754,7 +2754,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/bugzilla-connector-1.0.1.zip",
             "description": "wso2 sample connector library for Bugzilla",
             "icon": "bugzilla.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-bugzilla/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/bugzilla.gif"
         },
         {
             "name": "callrail",
@@ -2825,7 +2825,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/callrail-connector-1.0.1.zip",
             "description": "callrail connector library",
             "icon": "callrail.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-callrail/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/callrail.gif"
         },
         {
             "name": "campaignmonitor",
@@ -2886,7 +2886,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/campaignmonitor-connector-1.0.0.zip",
             "description": "wso2 CampaignMonitor connector library",
             "icon": "campaignmonitor.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-campaignmonitor/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/campaignmonitor.gif"
         },
         {
             "name": "canvas",
@@ -2982,7 +2982,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/canvas-connector-1.0.1.zip",
             "description": "wso2 canvas connector library",
             "icon": "canvas.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-canvas/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/canvas.gif"
         },
         {
             "name": "capsulecrm",
@@ -3048,7 +3048,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/capsulecrm-connector-1.0.0.zip",
             "description": "wso2 sample connector library for CapsuleCRM",
             "icon": "capsulecrm.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-capsulecrm/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/capsulecrm.gif"
         },
         {
             "name": "cashboard",
@@ -3169,7 +3169,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/cashboard-connector-1.0.1.zip",
             "description": "cashboard connector library",
             "icon": "cashboard.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-cashboard/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/cashboard.gif"
         },
         {
             "name": "ceridiandayforce",
@@ -3630,7 +3630,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ceridiandayforce-connector-1.0.1.zip",
             "description": "WSO2 CeridianDayforce connector library",
             "icon": "ceridiandayforceconnector.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ceridiandayforceconnector.gif"
         },
         {
             "name": "cerner",
@@ -3786,7 +3786,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/cerner-connector-1.0.0.zip",
             "description": "WSO2 connector for CERNER Millennium API",
             "icon": "cerner.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-cerner/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/cerner.gif"
         },
         {
             "name": "chargebee",
@@ -3882,7 +3882,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/chargebee-connector-1.0.1.zip",
             "description": "chargebee connector library",
             "icon": "chargebee.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-chargebee/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/chargebee.gif"
         },
         {
             "name": "clevertimcrm",
@@ -3993,7 +3993,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/clevertimcrm-connector-1.0.1.zip",
             "description": "clevertimCRM connector library",
             "icon": "clevertimcrm.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-clevertimcrm/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/clevertimcrm.gif"
         },
         {
             "name": "cliniko",
@@ -4134,7 +4134,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/cliniko-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Cliniko API.",
             "icon": "cliniko.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-cliniko/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/cliniko.gif"
         },
         {
             "name": "clio",
@@ -4220,7 +4220,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/clio-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Clio.",
             "icon": "clio.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-clio/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/clio.gif"
         },
         {
             "name": "companieshouse",
@@ -4241,7 +4241,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/companieshouse-connector-1.0.3.zip",
             "description": "WSO2 Connector for Companies house",
             "icon": "companieshouse.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-companieshouse/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/companieshouse.gif"
         },
         {
             "name": "concur",
@@ -4327,7 +4327,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/concur-connector-1.0.1.zip",
             "description": "Concur connector libraries",
             "icon": "concur.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-concur/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/concur.gif"
         },
         {
             "name": "confluence",
@@ -4438,7 +4438,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/confluence-connector-2.0.1.zip",
             "description": "WSO2 ESB Connector Library for Confluence API.",
             "icon": "confluence.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-confluence/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/confluence.gif"
         },
         {
             "name": "constantcontact",
@@ -4524,7 +4524,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/constantcontact-connector-1.0.1.zip",
             "description": "wso2 connector library for Constant Contact",
             "icon": "constantcontact.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-constantcontact/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/constantcontact.gif"
         },
         {
             "name": "cmis",
@@ -4555,7 +4555,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/cmis-connector-1.0.0.zip",
             "description": "CMIS version 1.1 connector",
             "icon": "contentmanagementinteroperabilityservices.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/contentmanagementinteroperabilityservices.gif"
         },
         {
             "name": "creatiocrm",
@@ -4651,7 +4651,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/creatiocrm-connector-1.0.0.zip",
             "description": "wso2 connector for creatiocrm REST API",
             "icon": "creatioconnector.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/creatioconnector.png"
         },
         {
             "name": "CSV",
@@ -4687,7 +4687,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/CSV-connector-1.0.5.zip",
             "description": "WSO2 CSV Module",
             "icon": "csvmodule.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/csvmodule.png"
         },
         {
             "name": "delicious",
@@ -4768,7 +4768,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/delicious-connector-1.0.1.zip",
             "description": "synapse library for delicious connector",
             "icon": "delicious.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-delicious/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/delicious.gif"
         },
         {
             "name": "deputy",
@@ -4829,7 +4829,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/deputy-connector-1.0.1.zip",
             "description": "wso2 connector library for Deputy",
             "icon": "deputy.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-deputy/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/deputy.gif"
         },
         {
             "name": "disqus",
@@ -4895,7 +4895,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/disqus-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Disqus.",
             "icon": "disqus.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-disqus/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/disqus.gif"
         },
         {
             "name": "documentum",
@@ -5021,7 +5021,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/documentum-connector-1.0.0.zip",
             "description": "WSO2 documentum connector library",
             "icon": "documentum.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-documentum/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/documentum.png"
         },
         {
             "name": "docusign",
@@ -5127,7 +5127,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/docusign-connector-1.0.9.zip",
             "description": "WSO2 ESB Connector Library for docuSign API.",
             "icon": "docusign.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-docusign/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/docusign.gif"
         },
         {
             "name": "dropbox",
@@ -5218,7 +5218,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/dropbox-connector-2.0.0.zip",
             "description": "dropbox connector libraries",
             "icon": "dropbox.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-dropbox/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/dropbox.gif"
         },
         {
             "name": "drupal",
@@ -5299,7 +5299,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/drupal-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Drupal API.",
             "icon": "drupal.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-drupal/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/drupal.gif"
         },
         {
             "name": "ebay",
@@ -5365,7 +5365,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ebay-connector-1.0.1.zip",
             "description": "wso2 ebay connector library",
             "icon": "ebay.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-ebay/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ebay.gif"
         },
         {
             "name": "ejb2",
@@ -5391,7 +5391,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ejb2-connector-1.0.0.zip",
             "description": "synapse library for ejb2 connector",
             "icon": "ejb-2.0.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ejb-2.0.gif"
         },
         {
             "name": "elasticsearch",
@@ -5477,7 +5477,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/elasticsearch-connector-1.0.3.zip",
             "description": "WSO2 ESB Connector Library for Elasticsearch API.",
             "icon": "elasticsearch.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-elasticsearch/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/elasticsearch.png"
         },
         {
             "name": "eloqua",
@@ -5923,7 +5923,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/eloqua-connector-1.0.0.zip",
             "description": "wso2 eloqua connector library",
             "icon": "eloqua.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-eloqua/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/eloqua.gif"
         },
         {
             "name": "eloquaStandardAPI",
@@ -6169,7 +6169,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/eloquaStandardAPI-connector-1.0.0.zip",
             "description": "wso2 eloqua connector library",
             "icon": "eloquastandard.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/eloquastandard.png"
         },
         {
             "name": "email",
@@ -6225,7 +6225,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/email-connector-1.1.2.zip",
             "description": "WSO2 email connector library",
             "icon": "emailconnector.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/emailconnector.png"
         },
         {
             "name": "epic",
@@ -6326,7 +6326,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/epic-connector-1.0.0.zip",
             "description": "WSO2 connector for Epic FHIR API.",
             "icon": "epic.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-epic/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/epic.gif"
         },
         {
             "name": "ethereum",
@@ -6417,7 +6417,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ethereum-connector-1.0.0.zip",
             "description": "WSO2 connector for Ethereum",
             "icon": "ethereum.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-ethereum/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ethereum.gif"
         },
         {
             "name": "eventbrite",
@@ -6593,7 +6593,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/eventbrite-connector-1.0.1.zip",
             "description": "wso2 sample connector library",
             "icon": "eventbrite.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-eventbrite/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/eventbrite.gif"
         },
         {
             "name": "evernote",
@@ -6734,7 +6734,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/evernote-connector-1.0.0.zip",
             "description": "Evernote Cloud Connector",
             "icon": "evernote.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-evernote/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/evernote.gif"
         },
         {
             "name": "ews",
@@ -6805,7 +6805,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ews-connector-1.0.2.zip",
             "description": "WSO2 EWS connector library",
             "icon": "ews.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-ews/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ews.gif"
         },
         {
             "name": "exacttarget",
@@ -6871,7 +6871,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/exacttarget-connector-1.0.0.zip",
             "description": "wso2 connector library for ExactTarget",
             "icon": "exacttarget.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-exacttarget/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/exacttarget.gif"
         },
         {
             "name": "facebook",
@@ -7182,7 +7182,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/facebook-connector-1.0.1.zip",
             "description": "facebook connector libraries",
             "icon": "facebook.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-facebook/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/facebook.gif"
         },
         {
             "name": "feed",
@@ -7208,7 +7208,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/feed-connector-1.0.0.zip",
             "description": "wso2 feed connector library",
             "icon": "feed.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-feed/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/feed.gif"
         },
         {
             "name": "fhir",
@@ -7384,7 +7384,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/fhir-connector-1.0.2.zip",
             "description": "WSO2 connector for FHIR RESTful API",
             "icon": "fhir.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-fhir/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/fhir.png"
         },
         {
             "name": "file",
@@ -7470,7 +7470,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/4.0.0/file-connector-4.0.20.zip",
             "description": "WSO2 file connector library",
             "icon": "file.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-file/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/file.gif"
         },
         {
             "name": "flickr",
@@ -7556,7 +7556,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/flickr-connector-1.0.0.zip",
             "description": "flicker API connector",
             "icon": "flickr.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-flickr/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/flickr.gif"
         },
         {
             "name": "formstack",
@@ -7652,7 +7652,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/formstack-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Formstack.",
             "icon": "formstack.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-formstack/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/formstack.gif"
         },
         {
             "name": "foursquare",
@@ -7743,7 +7743,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/foursquare-connector-1.0.1.zip",
             "description": "synapse library for foursquare connector",
             "icon": "foursquare.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-foursquare/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/foursquare.gif"
         },
         {
             "name": "freeagent",
@@ -7844,7 +7844,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/freeagent-connector-1.0.1.zip",
             "description": "wso2 sample connector library for FreeAgent",
             "icon": "freeagent.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-freeagent/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/freeagent.gif"
         },
         {
             "name": "freshbooks",
@@ -8105,7 +8105,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/freshbooks-connector-1.0.0.zip",
             "description": "FreshBooks connector libraries",
             "icon": "freshbooks.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-freshbooks/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/freshbooks.gif"
         },
         {
             "name": "freshdesk",
@@ -8281,7 +8281,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/2.0.0/freshdesk-connector-2.0.0.zip",
             "description": "WSO2 connector library for Freshdesk",
             "icon": "freshdesk.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-freshdesk/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/freshdesk.gif"
         },
         {
             "name": "geonames",
@@ -8367,7 +8367,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/geonames-connector-1.0.0.zip",
             "description": "WSO2 ESB Connector Library for GeoNames API.",
             "icon": "geonames.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-geonames/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/geonames.gif"
         },
         {
             "name": "github",
@@ -8588,7 +8588,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/github-connector-1.0.2.zip",
             "description": "github connector libraries",
             "icon": "github.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-github/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/github.gif"
         },
         {
             "name": "gmail",
@@ -8744,7 +8744,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/3.0.0/gmail-connector-3.0.8.zip",
             "description": "WSO2 Gmail connector library",
             "icon": "gmail.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-gmail/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/gmail.gif"
         },
         {
             "name": "blogger",
@@ -8865,7 +8865,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/blogger-connector-1.0.0.zip",
             "description": "Blogger API connector for WSO2 ESB",
             "icon": "googleblogger.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googleblogger/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googleblogger.gif"
         },
         {
             "name": "googlecalendar",
@@ -9041,7 +9041,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googlecalendar-connector-1.0.2.zip",
             "description": "GoogleCalendar API connector libraries",
             "icon": "googlecalendar.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googlecalendar/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlecalendar.gif"
         },
         {
             "name": "googlecontacts",
@@ -9137,7 +9137,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googlecontacts-connector-1.0.1.zip",
             "description": "WSO2 Connector for Google Contacts",
             "icon": "googlecontacts.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googlecontacts/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlecontacts.gif"
         },
         {
             "name": "googledriverest",
@@ -9378,7 +9378,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googledriverest-connector-1.0.3.zip",
             "description": "wso2 connector library for Google drive Rest Connector",
             "icon": "googledriverest.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googledriverest/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googledriverest.gif"
         },
         {
             "name": "googlefirebase",
@@ -9409,7 +9409,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googlefirebase-connector-1.0.2.zip",
             "description": "WSO2 Connector library for Google Firebase API",
             "icon": "googlefirebase.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googlefirebase/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlefirebase.png"
         },
         {
             "name": "googleprediction",
@@ -9465,7 +9465,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/googleprediction-connector-1.0.0.zip",
             "description": "googleprediction connector library",
             "icon": "googleprediction.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googleprediction/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googleprediction.gif"
         },
         {
             "name": "googlepubsub",
@@ -9506,7 +9506,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googlepubsub-connector-1.0.1.zip",
             "description": "google Pub/Sub v1 connector",
             "icon": "googlepub-sub.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlepub-sub.gif"
         },
         {
             "name": "googlespreadsheet",
@@ -9667,7 +9667,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/3.0.0/googlespreadsheet-connector-3.0.1.zip",
             "description": "WSO2 Connector library for Google Spreadsheet API Version v4",
             "icon": "googlespreadsheet.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googlespreadsheet/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlespreadsheet.png"
         },
         {
             "name": "googletasks",
@@ -9758,7 +9758,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/googletasks-connector-1.0.1.zip",
             "description": "WSO2 ESB connector for Google Tasks API",
             "icon": "googletasks.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googletasks/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googletasks.gif"
         },
         {
             "name": "googleanalytics",
@@ -10049,7 +10049,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googleanalytics-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for GoogleAnalytics API.",
             "icon": "googleanalytics.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googleanalytics/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googleanalytics.gif"
         },
         {
             "name": "googlecustomsearch",
@@ -10070,7 +10070,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googlecustomsearch-connector-1.0.0.zip",
             "description": "synapse library for google custom search connector",
             "icon": "googlecustomsearch.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googlecustomsearch/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googlecustomsearch.gif"
         },
         {
             "name": "googleplus",
@@ -10136,7 +10136,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/googleplus-connector-1.0.3.zip",
             "description": "WSO2 ESB Connector Library for google plus API.",
             "icon": "googleplus.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-googleplus/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/googleplus.gif"
         },
         {
             "name": "gototraining",
@@ -10192,7 +10192,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/gototraining-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for GoToTraining.",
             "icon": "gototraining.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-gototraining/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/gototraining.gif"
         },
         {
             "name": "gotowebinar",
@@ -10393,7 +10393,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/gotowebinar-connector-1.0.3.zip",
             "description": "wso2 connector library for GoToWebinar",
             "icon": "gotowebinar.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-gotowebinar/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/gotowebinar.gif"
         },
         {
             "name": "hubspot",
@@ -10484,7 +10484,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/hubspot-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Hubspot.",
             "icon": "hubspot.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-hubspot/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/hubspot.gif"
         },
         {
             "name": "insightly",
@@ -10600,7 +10600,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/insightly-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for Insightly.",
             "icon": "insightly.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-insightly/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/insightly.gif"
         },
         {
             "name": "instagram",
@@ -10726,7 +10726,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/instagram-connector-1.0.1.zip",
             "description": "Instagram API connector libraries",
             "icon": "instagram.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-instagram/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/instagram.gif"
         },
         {
             "name": "iso8583",
@@ -10747,7 +10747,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/iso8583-connector-1.0.3.zip",
             "description": "wso2 connector library for ISO8583",
             "icon": "iso8583.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-iso8583/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/iso8583.gif"
         },
         {
             "name": "jenkins",
@@ -10808,7 +10808,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/jenkins-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for Jenkins API.",
             "icon": "jenkins.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-jenkins/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/jenkins.gif"
         },
         {
             "name": "jira",
@@ -11109,7 +11109,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/jira-connector-1.0.5.zip",
             "description": "WSO2 ESB Connector Library for JIRA.",
             "icon": "jira.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-jira/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/jira.gif"
         },
         {
             "name": "jms",
@@ -11130,7 +11130,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/jms-connector-1.0.1.zip",
             "description": "JMS Message Producer",
             "icon": "jms.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-jms/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/jms.png"
         },
         {
             "name": "jotform",
@@ -11176,7 +11176,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/jotform-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for JotForm",
             "icon": "jotform.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-jotform/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/jotform.gif"
         },
         {
             "name": "kafkaTransport",
@@ -11197,7 +11197,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/3.0.0/kafkaTransport-connector-3.2.0.zip",
             "description": "Kafka transport connector library",
             "icon": "kafka.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-kafka/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/kafka.png"
         },
         {
             "name": "killbill",
@@ -11318,7 +11318,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/killbill-connector-1.0.0.zip",
             "description": "WSO2 Connector library for Kill Bill REST API.",
             "icon": "killbill.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-killbill/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/killbill.gif"
         },
         {
             "name": "ldap",
@@ -11364,7 +11364,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ldap-connector-1.0.13.zip",
             "description": "LDAP connector for WSO2 ESB",
             "icon": "ldap.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-ldap/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ldap.png"
         },
         {
             "name": "linkedin",
@@ -11500,7 +11500,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/linkedin-connector-1.0.2.zip",
             "description": "WSO2 Connector for LinkedIn 1.0",
             "icon": "linkedin.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-linkedin/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/linkedin.gif"
         },
         {
             "name": "livechat",
@@ -11576,7 +11576,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/livechat-connector-1.0.1.zip",
             "description": "Live Chat connector library",
             "icon": "livechat.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-livechat/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/livechat.gif"
         },
         {
             "name": "loggly",
@@ -11622,7 +11622,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/loggly-connector-1.0.1.zip",
             "description": "wso2 sample connector library",
             "icon": "loggly.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-loggly/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/loggly.gif"
         },
         {
             "name": "magento",
@@ -11843,7 +11843,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/magento-connector-1.0.2.zip",
             "description": "Magento connector library",
             "icon": "magento.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-magento/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/magento.gif"
         },
         {
             "name": "mailchimp",
@@ -12009,7 +12009,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/mailchimp-connector-2.0.0.zip",
             "description": "WSO2 ESB Connector Library for MailChimp.",
             "icon": "mailchimp.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-mailchimp/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/mailchimp.gif"
         },
         {
             "name": "marketo",
@@ -12185,7 +12185,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/marketo-connector-1.0.0.zip",
             "description": "WSO2 Connector for Marketo Rest API",
             "icon": "marketo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-marketo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/marketo.gif"
         },
         {
             "name": "msazurestorage",
@@ -12246,7 +12246,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/msazurestorage-connector-2.0.0.zip",
             "description": "WSO2 Microsoft Azure Storage connector library",
             "icon": "microsoftazurestorage.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/microsoftazurestorage.gif"
         },
         {
             "name": "msdynamics365",
@@ -12337,7 +12337,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/msdynamics365-connector-1.0.1.zip",
             "description": "wso2 sample connector library for microsoft dynamic crm",
             "icon": "microsoftdynamics365.gif",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/microsoftdynamics365.gif"
         },
         {
             "name": "mongodb",
@@ -12398,7 +12398,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/mongodb-connector-1.0.2.zip",
             "description": "WSO2 MongoDB connector library",
             "icon": "mongodb.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-mongodb/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/mongodb.png"
         },
         {
             "name": "nest",
@@ -12449,7 +12449,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/nest-connector-1.0.0.zip",
             "description": "wso2 sample connector library",
             "icon": "nest.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-nest/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/nest.gif"
         },
         {
             "name": "netsuite",
@@ -12530,7 +12530,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/netsuite-connector-1.0.1.zip",
             "description": "netsuite connector libraries",
             "icon": "netsuite.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-netsuite/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/netsuite.gif"
         },
         {
             "name": "nexmo",
@@ -12591,7 +12591,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/nexmo-connector-1.0.1.zip",
             "description": "wso2 sample connector library",
             "icon": "nexmo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-nexmo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/nexmo.gif"
         },
         {
             "name": "nimble",
@@ -12737,7 +12737,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/nimble-connector-1.0.0.zip",
             "description": "Nimble connector for WSO2 ESB",
             "icon": "nimble.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-nimble/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/nimble.gif"
         },
         {
             "name": "openweathermap",
@@ -12858,7 +12858,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/openweathermap-connector-1.0.0.zip",
             "description": "wso2 sample connector library",
             "icon": "openweathermap.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-openweathermap/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/openweathermap.gif"
         },
         {
             "name": "outlookmail",
@@ -12979,7 +12979,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/outlookmail-connector-1.0.3.zip",
             "description": "WSO2 ESB Connector Library for outlookmail REST API.",
             "icon": "outlookmail.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-outlookmail/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/outlookmail.png"
         },
         {
             "name": "pagerduty",
@@ -13065,7 +13065,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/pagerduty-connector-2.0.0.zip",
             "description": "Pagerduty connector libraries",
             "icon": "pagerduty.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-pagerduty/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/pagerduty.gif"
         },
         {
             "name": "pardot",
@@ -13151,7 +13151,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/pardot-connector-1.0.1.zip",
             "description": "WSO2 connector library for Pardot REST API.",
             "icon": "pardot.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-pardot/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/pardot.gif"
         },
         {
             "name": "paypal",
@@ -13267,7 +13267,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/paypal-connector-1.0.0.zip",
             "description": "PayPal API connector libraries",
             "icon": "paypal.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-paypal/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/paypal.gif"
         },
         {
             "name": "peoplehr",
@@ -13453,7 +13453,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/peoplehr-connector-1.0.3.zip",
             "description": "wso2 connector library for PeopleHR",
             "icon": "peoplehr.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-peoplehr/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/peoplehr.gif"
         },
         {
             "name": "pipedrive",
@@ -13564,7 +13564,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/pipedrive-connector-1.0.1.zip",
             "description": "wso2 sample connector library for Pipedrive",
             "icon": "pipedrive.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-pipedrive/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/pipedrive.gif"
         },
         {
             "name": "pipelinedeals",
@@ -13685,7 +13685,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/pipelinedeals-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for PipelineDeals API.",
             "icon": "pipelinedeals.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-pipelinedeals/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/pipelinedeals.gif"
         },
         {
             "name": "pivotaltracker",
@@ -13751,7 +13751,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/pivotaltracker-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Pivotaltracker",
             "icon": "pivotaltracker.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-pivotaltracker/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/pivotaltracker.gif"
         },
         {
             "name": "planyo",
@@ -13827,7 +13827,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/planyo-connector-1.0.0.zip",
             "description": "wso2 sample connector library for Planyo",
             "icon": "planyo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-planyo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/planyo.gif"
         },
         {
             "name": "podio",
@@ -13903,7 +13903,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/podio-connector-1.0.1.zip",
             "description": "wso2 connector library for Podio",
             "icon": "podio.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-podio/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/podio.gif"
         },
         {
             "name": "postcodelookup",
@@ -13924,7 +13924,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/postcodelookup-connector-1.0.3.zip",
             "description": "WSO2 ESB Connector Library for postcode lookup API.",
             "icon": "postcodelookup.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-postcodelookup/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/postcodelookup.gif"
         },
         {
             "name": "powerbi",
@@ -14010,7 +14010,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/powerbi-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for PowerBI API.",
             "icon": "powerbi.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-powerbi/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/powerbi.gif"
         },
         {
             "name": "printavo",
@@ -14131,7 +14131,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/printavo-connector-1.0.0.zip",
             "description": "WSO2 ESB Connector Library for Printavo API.",
             "icon": "printavo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-printavo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/printavo.gif"
         },
         {
             "name": "prodpad",
@@ -14197,7 +14197,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/prodpad-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Prodpad.",
             "icon": "prodpad.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-prodpad/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/prodpad.gif"
         },
         {
             "name": "producteev",
@@ -14293,7 +14293,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/producteev-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Producteev API.",
             "icon": "producteev.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-producteev/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/producteev.gif"
         },
         {
             "name": "proworkflow",
@@ -14359,7 +14359,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/proworkflow-connector-1.0.1.zip",
             "description": "wso2 connector library for ProWorkFlow.",
             "icon": "proworkflow.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-proworkflow/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/proworkflow.gif"
         },
         {
             "name": "quickbooks",
@@ -14480,7 +14480,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/quickbooks-connector-1.0.0.zip",
             "description": "quickbooks connector libraries",
             "icon": "quickbooks.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-quickbooks/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/quickbooks.gif"
         },
         {
             "name": "recurly",
@@ -14561,7 +14561,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/recurly-connector-1.0.0.zip",
             "description": "Recurly API connector libraries",
             "icon": "recurly.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-recurly/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/recurly.gif"
         },
         {
             "name": "reddit",
@@ -14682,7 +14682,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/reddit-connector-1.0.0.zip",
             "description": "wso2 connector library for reddit",
             "icon": "reddit.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-reddit/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/reddit.gif"
         },
         {
             "name": "redis",
@@ -15113,7 +15113,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/redis-connector-2.7.0.zip",
             "description": "wso2 Redis connector library",
             "icon": "redis.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-redis/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/redis.gif"
         },
         {
             "name": "redmine",
@@ -15324,7 +15324,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/redmine-connector-1.0.1.zip",
             "description": "WSO2 Connector for Redmine",
             "icon": "redmine.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-redmine/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/redmine.gif"
         },
         {
             "name": "reliablemessage",
@@ -15345,7 +15345,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/reliablemessage-connector-1.0.0.zip",
             "description": "WSO2 Connector for reliable messaging",
             "icon": "reliablemessage.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-reliablemessage/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/reliablemessage.png"
         },
         {
             "name": "ronin",
@@ -15451,7 +15451,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/ronin-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Ronin.",
             "icon": "ronin.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-ronin/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/ronin.gif"
         },
         {
             "name": "salesforce",
@@ -15602,7 +15602,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/salesforce-connector-2.1.1.zip",
             "description": "synapse library for Salesforce connector",
             "icon": "salesforce.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforce.png"
         },
         {
             "name": "salesforce_bulkapi_v2",
@@ -15713,7 +15713,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/salesforce_bulkapi_v2-connector-2.1.0.zip",
             "description": "WSO2 salesforce-bulkapi-v2 connector library",
             "icon": "salesforcebulkapiv2.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforcebulkapiv2.png"
         },
         {
             "name": "salesforcewaveanalytics",
@@ -15799,7 +15799,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/salesforcewaveanalytics-connector-1.0.0.zip",
             "description": "WSO2 salesforcewaveanalytics connector library",
             "icon": "salesforcewaveanalytics.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-salesforcewaveanalytics/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforcewaveanalytics.gif"
         },
         {
             "name": "salesforcebulk",
@@ -15880,7 +15880,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/salesforcebulk-connector-1.1.0.zip",
             "description": "WSO2 ESB Connector Library for SalesforceBulk API.",
             "icon": "salesforcebulk.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-salesforcebulk/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforcebulk.png"
         },
         {
             "name": "salesforcedesk",
@@ -16011,7 +16011,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/salesforcedesk-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Salesforcedesk API.",
             "icon": "salesforcedesk.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-salesforcedesk/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforcedesk.gif"
         },
         {
             "name": "salesforcerest",
@@ -16802,7 +16802,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/2.0.0/salesforcerest-connector-2.0.0.zip",
             "description": "wso2 connector for Salesforce REST API",
             "icon": "salesforcerest.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-salesforcerest/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/salesforcerest.png"
         },
         {
             "name": "sapbydesign",
@@ -16893,7 +16893,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/sapbydesign-connector-1.0.1.zip",
             "description": "WSO2 connector library for SAP ByDesign",
             "icon": "sapbydesign.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sapbydesign/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sapbydesign.gif"
         },
         {
             "name": "sendgrid",
@@ -17049,7 +17049,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/sendgrid-connector-1.0.0.zip",
             "description": "wso2 sample connector library for sendgrid",
             "icon": "sendgrid.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sendgrid/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sendgrid.gif"
         },
         {
             "name": "sendloop",
@@ -17160,7 +17160,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/sendloop-connector-1.0.0.zip",
             "description": "WSO2 ESB Connector Library for Sendloop API.",
             "icon": "sendloop.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sendloop/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sendloop.gif"
         },
         {
             "name": "servicenow",
@@ -17221,7 +17221,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/servicenow-connector-1.0.2.zip",
             "description": "WSO2 Connector for ServiceNow REST API.",
             "icon": "servicenow.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-servicenow/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/servicenow.gif"
         },
         {
             "name": "sharepoint",
@@ -17367,7 +17367,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/sharepoint-connector-1.0.5.zip",
             "description": "WSO2 ESB Connector Library for sharePoint API.",
             "icon": "sharepoint.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sharepoint/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sharepoint.gif"
         },
         {
             "name": "shippo",
@@ -17423,7 +17423,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/shippo-connector-1.0.0.zip",
             "description": "wso2 connector library for Shippo",
             "icon": "shippo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-shippo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/shippo.gif"
         },
         {
             "name": "shopify",
@@ -17494,7 +17494,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/shopify-connector-1.0.1.zip",
             "description": "wso2 connector library for Shopify",
             "icon": "shopify.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-shopify/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/shopify.gif"
         },
         {
             "name": "simplenote",
@@ -17540,7 +17540,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/simplenote-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for SimpleNote.",
             "icon": "simplenote.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-simplenote/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/simplenote.gif"
         },
         {
             "name": "sirportly",
@@ -17621,7 +17621,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/sirportly-connector-1.0.1.zip",
             "description": "sirportly connector library",
             "icon": "sirportly.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sirportly/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sirportly.gif"
         },
         {
             "name": "slack",
@@ -17712,7 +17712,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/slack-connector-1.0.0.zip",
             "description": "WSO2 slack connector library",
             "icon": "slack.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-slack/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/slack.gif"
         },
         {
             "name": "slideshare",
@@ -17813,7 +17813,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/slideshare-connector-1.0.0.zip",
             "description": "wso2 slideshare connector library",
             "icon": "slideshare.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-slideshare/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/slideshare.gif"
         },
         {
             "name": "SMPP",
@@ -17844,7 +17844,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/SMPP-connector-1.1.2.zip",
             "description": "WSO2 SMPP connector",
             "icon": "smpp.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-smpp/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/smpp.png"
         },
         {
             "name": "snmp",
@@ -17885,7 +17885,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/snmp-connector-1.0.2.zip",
             "description": "WSO2 SNMP connector",
             "icon": "snmp.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-snmp/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/snmp.gif"
         },
         {
             "name": "snowflake",
@@ -17916,7 +17916,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/snowflake-connector-1.0.0.zip",
             "description": "WSO2 snowflake connector library",
             "icon": "snowflake.png",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-snowflake/master/src/main/resources/icon/icon-large.png"
+            "icon_url": "https://mi-connectors.wso2.com/icons/snowflake.png"
         },
         {
             "name": "splunk",
@@ -18007,7 +18007,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/splunk-connector-1.0.0.zip",
             "description": "WSO2 splunk connector library",
             "icon": "splunk.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-splunk/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/splunk.gif"
         },
         {
             "name": "spotify",
@@ -18168,7 +18168,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/spotify-connector-1.0.0.zip",
             "description": "wso2 connector library for Spotify",
             "icon": "spotify.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-spotify/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/spotify.gif"
         },
         {
             "name": "stackexchange",
@@ -18259,7 +18259,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/stackexchange-connector-1.0.0.zip",
             "description": "WSO2 StackExchange connector library",
             "icon": "stackexchange.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-stackexchange/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/stackexchange.gif"
         },
         {
             "name": "stripe",
@@ -18400,7 +18400,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/stripe-connector-2.0.0.zip",
             "description": "WSO2 connector library for Stripe",
             "icon": "stripe.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-stripe/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/stripe.gif"
         },
         {
             "name": "stubHub",
@@ -18466,7 +18466,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/stubHub-connector-1.0.0.zip",
             "description": "StubHub Connector Library",
             "icon": "stubhub.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-stubhub/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/stubhub.gif"
         },
         {
             "name": "sugarcrm",
@@ -18602,7 +18602,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/sugarcrm-connector-1.0.0.zip",
             "description": "Sugar CRM connector libraries",
             "icon": "sugarcrm.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-sugarcrm/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/sugarcrm.gif"
         },
         {
             "name": "supportbee",
@@ -18698,7 +18698,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/supportbee-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for SupportBee.",
             "icon": "supportbee.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-supportbee/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/supportbee.gif"
         },
         {
             "name": "surveygizmo",
@@ -18774,7 +18774,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/2.0.0/surveygizmo-connector-2.0.0.zip",
             "description": "WSO2 connector library for Surveygizmo",
             "icon": "surveygizmo.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-surveygizmo/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/surveygizmo.gif"
         },
         {
             "name": "surveymonkey",
@@ -18830,7 +18830,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/surveymonkey-connector-1.0.1.zip",
             "description": "SurveyMonkey API connector libraries",
             "icon": "surveymonkey.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-surveymonkey/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/surveymonkey.gif"
         },
         {
             "name": "teamwork",
@@ -19551,7 +19551,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/teamwork-connector-1.0.0.zip",
             "description": "wso2 teamwork connector library",
             "icon": "teamwork.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-teamwork/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/teamwork.gif"
         },
         {
             "name": "tradegecko",
@@ -19597,7 +19597,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/tradegecko-connector-1.0.0.zip",
             "description": "wso2 connector library for Tradegecko",
             "icon": "tradegecko.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-tradegecko/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/tradegecko.gif"
         },
         {
             "name": "tsheets",
@@ -19648,7 +19648,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/tsheets-connector-1.0.1.zip",
             "description": "wso2 sample connector library for Tsheets",
             "icon": "tsheets.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-tsheets/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/tsheets.gif"
         },
         {
             "name": "twilio",
@@ -19994,7 +19994,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/twilio-connector-1.1.0.zip",
             "description": "Twilio Cloud Connector",
             "icon": "twilio.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-twilio/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/twilio.gif"
         },
         {
             "name": "twilioRest",
@@ -20150,7 +20150,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/twilioRest-connector-1.0.1.zip",
             "description": "wso2 twiliorest connector library",
             "icon": "twiliorest.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-twiliorest/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/twiliorest.gif"
         },
         {
             "name": "twitter",
@@ -20356,7 +20356,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/3.0.0/twitter-connector-3.0.0.zip",
             "description": "synapse library for Twitter connector",
             "icon": "twitter.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-twitter/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/twitter.gif"
         },
         {
             "name": "utility",
@@ -20412,7 +20412,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/utility-connector-1.0.1.zip",
             "description": "WSO2 Utility Connector",
             "icon": "utilitymodule.png",
-            "icon_url": "No Icon"
+            "icon_url": "https://mi-connectors.wso2.com/icons/utilitymodule.png"
         },
         {
             "name": "vend",
@@ -20553,7 +20553,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/vend-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Vend API.",
             "icon": "vend.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-vend/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/vend.gif"
         },
         {
             "name": "verticalresponse",
@@ -20624,7 +20624,7 @@
             "download_url": "http://dist.wso2.org/downloads/esb-connectors/1.0.0/verticalresponse-connector-1.0.1.zip",
             "description": "verticalResponse connector library",
             "icon": "verticalresponse.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-verticalresponse/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/verticalresponse.gif"
         },
         {
             "name": "viber",
@@ -20790,7 +20790,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/viber-connector-1.0.0.zip",
             "description": "WSO2 Viber Connector Library",
             "icon": "viber.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-viber/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/viber.gif"
         },
         {
             "name": "wordpress",
@@ -20996,7 +20996,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/wordpress-connector-1.0.1.zip",
             "description": "Wordpress REST API connector libraries",
             "icon": "wordpress.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-wordpress/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/wordpress.gif"
         },
         {
             "name": "workday",
@@ -21102,7 +21102,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/workday-connector-1.0.0.zip",
             "description": "workday v29.0 connector",
             "icon": "workday.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-workday/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/workday.gif"
         },
         {
             "name": "wunderlist",
@@ -21228,7 +21228,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/wunderlist-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for WunderList API.",
             "icon": "wunderlist.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-wunderlist/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/wunderlist.gif"
         },
         {
             "name": "xero",
@@ -21284,7 +21284,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/xero-connector-1.0.1.zip",
             "description": "wso2 connector library for Xero",
             "icon": "xero.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-xero/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/xero.gif"
         },
         {
             "name": "yammer",
@@ -21500,7 +21500,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/yammer-connector-1.0.1.zip",
             "description": "yammer connector library",
             "icon": "yammer.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-yammer/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/yammer.gif"
         },
         {
             "name": "yelp",
@@ -21526,7 +21526,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/yelp-connector-1.0.1.zip",
             "description": "yelp API connector",
             "icon": "yelp.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-yelp/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/yelp.gif"
         },
         {
             "name": "zendesk",
@@ -21597,7 +21597,7 @@
             "download_url": "https://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zendesk-connector-1.0.2.zip",
             "description": "zendesk connector library",
             "icon": "zendesk.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zendesk/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zendesk.gif"
         },
         {
             "name": "zohobooks",
@@ -21748,7 +21748,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zohobooks-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for ZohoBooks.",
             "icon": "zohobooks.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zohobooks/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zohobooks.gif"
         },
         {
             "name": "zohorecruit",
@@ -21799,7 +21799,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zohorecruit-connector-1.0.1.zip",
             "description": "wso2 ZohoRecruit connector library",
             "icon": "zohorecruit.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zohorecruit/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zohorecruit.gif"
         },
         {
             "name": "zohocrm",
@@ -21865,7 +21865,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zohocrm-connector-1.0.1.zip",
             "description": "wso2 ZohoCRM connector library",
             "icon": "zohocrm.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zohocrm/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zohocrm.gif"
         },
         {
             "name": "zohopeople",
@@ -21911,7 +21911,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zohopeople-connector-1.0.0.zip",
             "description": "wso2 ZohoPeople connector library",
             "icon": "zohopeople.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zohopeople/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zohopeople.gif"
         },
         {
             "name": "zuora",
@@ -22027,7 +22027,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zuora-connector-1.0.1.zip",
             "description": "WSO2 ESB Connector Library for Zuora REST API.",
             "icon": "zuora.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zuora/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zuora.gif"
         },
         {
             "name": "zuorasoap",
@@ -22093,7 +22093,7 @@
             "download_url": "http://product-dist.wso2.com/downloads/esb-connectors/1.0.0/zuorasoap-connector-1.0.2.zip",
             "description": "WSO2 ESB Connector Library for Zuora SOAP API.",
             "icon": "zuorasoap.gif",
-            "icon_url": "https://raw.githubusercontent.com/wso2-extensions/esb-connector-zuorasoap/master/src/main/resources/icon/icon-large.gif"
+            "icon_url": "https://mi-connectors.wso2.com/icons/zuorasoap.gif"
         }
     ]
 }
